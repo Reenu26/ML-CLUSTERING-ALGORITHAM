@@ -1,6 +1,6 @@
 # ML-CLUSTERING-ALGORITHAM
 
-IN this Work, we explore unsupervised machine learning techniques to cluster the Iris dataset using two clustering algorithms: K-Means Clustering and Hierarchical Clustering. 
+In this Work, we explore unsupervised machine learning techniques to cluster the Iris dataset using two clustering algorithms: K-Means Clustering and Hierarchical Clustering. 
 steps involved
 loaded the Iris Dataset: We begin by loading the dataset and preprocessing it to ensure it's ready for clustering (i.e., dropping the species column, as this is an unsupervised task).
 Clustering with K-Means: Apply K-Means clustering with the optimal number of clusters (K=3) and visualize the clusters using scatter plots.
